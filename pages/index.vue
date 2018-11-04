@@ -1,25 +1,12 @@
 <template>
-  <section class="container">
-    <div>
-      <logo/>
-      <h1 class="title">
-        nuxt-onsenui-example
-      </h1>
-      <h2 class="subtitle">
-        Nuxt.js + Onsen UI Application Example
-      </h2>
-      <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          class="button--green">Documentation</a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          class="button--grey">GitHub</a>
-      </div>
-    </div>
-  </section>
+  <v-ons-page>
+    <v-ons-toolbar>
+      <div class="center">Title</div>
+    </v-ons-toolbar>
+    <p style="text-align: center">
+      <v-ons-button @click="$ons.notification.alert('Hello World!')">Click me!</v-ons-button>
+    </p>
+  </v-ons-page>
 </template>
 
 <script>
