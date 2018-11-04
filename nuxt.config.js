@@ -60,5 +60,8 @@ module.exports = {
         })
       }
     }
+  },
+  router: {
+    base: '/nuxt-onsenui-example/'
   }
 }
