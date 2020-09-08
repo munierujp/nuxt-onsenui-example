@@ -20,7 +20,7 @@
   "devDependencies": {
     "babel-eslint": "8.2.6",
     "eslint": "5.16.0",
-    "eslint-loader": "2.1.1",
+    "eslint-loader": "4.0.2",
     "eslint-plugin-vue": "4.7.1",
     "nodemon": "1.19.4",
     "nuxt-onsenui-module": "1.0.0",
