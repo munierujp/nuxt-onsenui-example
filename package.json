@@ -14,16 +14,16 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "cross-env": "^5.2.0",
-    "nuxt": "^2.0.0"
+    "cross-env": "5.2.0",
+    "nuxt": "2.2.0"
   },
   "devDependencies": {
-    "babel-eslint": "^8.2.1",
-    "eslint": "^5.0.1",
-    "eslint-loader": "^2.0.0",
-    "eslint-plugin-vue": "^4.0.0",
-    "nodemon": "^1.11.0",
-    "nuxt-onsenui-module": "^1.0.0",
-    "push-dir": "^0.4.1"
+    "babel-eslint": "8.2.6",
+    "eslint": "5.8.0",
+    "eslint-loader": "2.1.1",
+    "eslint-plugin-vue": "4.7.1",
+    "nodemon": "1.18.5",
+    "nuxt-onsenui-module": "1.0.0",
+    "push-dir": "0.4.1"
   }
 }
