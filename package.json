@@ -22,6 +22,6 @@
     "eslint-loader": "2.2.1",
     "eslint-plugin-vue": "4.7.1",
     "nodemon": "1.19.4",
-    "nuxt-onsenui-module": "1.0.0"
+    "nuxt-onsenui-module": "1.1.1"
   }
 }
