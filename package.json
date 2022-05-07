@@ -20,7 +20,7 @@
     "babel-eslint": "10.1.0",
     "eslint": "8.15.0",
     "eslint-loader": "4.0.2",
-    "eslint-plugin-vue": "5.2.3",
+    "eslint-plugin-vue": "6.2.2",
     "nodemon": "2.0.16",
     "nuxt-onsenui-module": "1.1.1"
   }
