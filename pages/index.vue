@@ -1,26 +1,21 @@
+<!-- eslint-disable vue/multi-word-component-names -->
+
 <template>
   <v-ons-page>
     <v-ons-toolbar>
-      <div class="center">Title</div>
+      <div class="center">
+        Title
+      </div>
     </v-ons-toolbar>
     <p style="text-align: center">
-      <v-ons-button @click="$ons.notification.alert('Hello World!')">Click me!</v-ons-button>
+      <v-ons-button @click="$ons.notification.alert('Hello World!')">
+        Click me!
+      </v-ons-button>
     </p>
   </v-ons-page>
 </template>
 
-<script>
-import Logo from '~/components/Logo.vue'
-
-export default {
-  components: {
-    Logo
-  }
-}
-</script>
-
 <style>
-
 .container {
   min-height: 100vh;
   display: flex;
