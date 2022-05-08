@@ -1,3 +1,5 @@
+<!-- eslint-disable vue/multi-word-component-names -->
+
 <template>
   <v-ons-page>
     <v-ons-toolbar>
